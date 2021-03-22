@@ -21,7 +21,11 @@ function Quarto() {
                         <div>
                             <label className='Paciente'>Nome do Paciente</label>                   
                             <input type="text" placeholder="Informe o Nome do Paciente"></input>
-                        </div>                      
+                        </div>
+                        <div>
+                            <label className='Paciente'>Medicação Aplicada</label>                   
+                            <input type="text" placeholder="Informe a medicação"></input>
+                        </div>
                     </div>                    
                 </form>
             </div>
