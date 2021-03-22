@@ -10,8 +10,7 @@ const Menu = props => (
                 <li><Link to="/">Início</Link></li>
                 <li><Link to="/Quarto">Quarto</Link></li>
                 <li><Link to="/Paciente">Paciente</Link></li>
-                <li><Link to="/Medicacao">Medicação</Link></li>
-                <li><Link to="/Medico">Médico</Link></li>
+                <li><Link to="/Medicos">Médicos</Link></li>
                 <li><Link to="/Itens">Itens</Link></li>
                 <li><Link to="/Liberacao">Liberação</Link></li>
             </ul>
