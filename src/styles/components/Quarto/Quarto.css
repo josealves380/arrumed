@@ -1,0 +1,13 @@
+ div {
+     display: flex;
+ }
+
+ .Quarto input {
+     display: flex;
+     width: 50vh;
+     font-size: 22px;
+ }
+
+ .Quarto label {
+     font-size: 22px;
+ }
